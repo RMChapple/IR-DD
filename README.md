@@ -5,7 +5,7 @@ Catalogue of radiocarbon determinations &amp; dendrochronology dates
 											
 If you make use of this resource, I expect it to be cited in publications. The full reference should read something like:											
 											
-Chapple, R. M. 2018 Catalogue of Radiocarbon Determinations & Dendrochronology Dates (March 2018 release) Oculus Obscura Press, Belfast.											
+Chapple, R. M. 2019 Catalogue of Radiocarbon Determinations & Dendrochronology Dates (August 2019 release) Oculus Obscura Press, Belfast.											
 											
 If you do not value this research enough to cite it in the publication, please do not use it. Citation in additional content (such as downloadable material) external to the main paper/chapter/book etc. is not sufficient.											
 											
